@@ -1,0 +1,142 @@
+body {
+    background-image: url("Png city/wp6545483.webp");
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Calibri;
+    font-weight: 900;
+    text-align: center;
+    color: #000000;
+    width: 700px;
+    margin: auto;
+   }
+   .imageButton {
+    background-color: #4141413d;
+    outline: 1px solid #99999973;
+    height: 50px;
+    width: 500px;
+    font-size: 32px;
+    font-weight: 100;
+    display: block;
+    text-decoration: none;
+    color: #FFFFFF;
+    margin: auto;
+    line-height: 50px;
+    border-radius: 10px;
+    margin-left: 15x;
+    margin-bottom: -5px;
+   }
+   .imageButton.project{
+    line-height: 30px;
+    height: 80px;
+   }
+   .imageButton.enabled{
+    outline: 3px solid #7700ff;
+   }
+   .imageButton.enabled:hover{
+    transform: scale(1.05);
+   }
+   .imageButtonImage {
+    height: 32px;
+    width: 32px;
+    transform: translate(0px, px);
+    border-radius: 5px;
+    margin-left: 15x;
+    margin-bottom: -5px;
+    
+   }
+   .imageButtonImagegit {
+    height: 40px;
+    width: 40px;
+    transform: translate(0px, 6px);
+    border-radius: 5px;
+    margin-left: 5x;
+    margin-bottom: -5px;
+    
+   }
+
+   .imageButtonImage1 {
+    height: 27px;
+    width: 35p x;
+    transform: translate(0px, -2px);
+    border-radius: 5px;
+    margin-left: 15x;
+    margin-bottom: -5px;
+   }
+
+   .imageButtonImage2 {
+    height: 64px;
+    width: 64px;
+    object-fit: none;
+    margin: 5px;
+    transform: translate(0px, 5px);
+   }
+   .projectName {
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 30px;
+   }
+   .projectName.small {
+    color: #EEEEEE;
+    font-size: 20px;
+    width: 410px;
+    line-height: 20px;
+    margin-top: 0;
+   }
+   .projectName.date {
+    font-size: 16px;
+    color: #FFFFFFAA;
+    text-align: right;
+   }
+   .column {
+    float:left;
+    text-align: left;
+   }
+   .pfp {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: -5px;
+   }
+   .headerLink{
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 32px;
+    margin-left: 10px;
+    margin-right: 10px;
+   }
+   .headerLink.small{
+    color: #FFFFFFFF;
+    font-size: 16px;
+   }
+   .headerLink.selected{
+    color: #2dd5ff;
+    text-decoration: underline #2dd5ff;
+   }
+   h1 {
+    font-weight: 600;
+    color: #ffffff;
+   }
+   h2 {
+    font-weight: 500;
+    color: #ffffff;
+   }
+   footer {
+    margin-top: 30px;
+    text-align: left;
+    color: #ffffff60;
+    border-top: 5px solid #8c00ff;
+   }
+   header {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 0px;
+    color: #000000;
+    border-bottom: 5px solid #8c00ff;
+   }
+   header.sub{
+    margin-top: -20px;
+    border-bottom: 1px solid #8c00ff;
+   }
+   
